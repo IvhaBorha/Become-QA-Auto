@@ -1,4 +1,0 @@
-{
-  "tests/ui/test_api.py": true, 
-  "tests/ui/test_api.py::test_name": true
-}
