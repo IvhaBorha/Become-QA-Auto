@@ -1,4 +1,5 @@
 import pytest
+from modules.api.clients.github import GitHub
 
 
 class User:
@@ -26,9 +27,7 @@ def user():
     user.remove()
 
 
-def test_change_name(user):
-    assert user.name == 'Yevheniia'
-
-
-def test_change_second_name(user):
-    assert user.second_name == 'Bondareva'
+@pytest.fixture
+def github_api():
+    api = GitHub()
+    yield api
