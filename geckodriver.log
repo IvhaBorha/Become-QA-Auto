@@ -1,0 +1,165 @@
+1676660920802	geckodriver	INFO	Listening on 127.0.0.1:44393
+1676660921174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilea2QS0c"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676660922581	Marionette	INFO	Marionette enabled
+1676660922591	Marionette	INFO	Listening on port 40699
+Read port: 40699
+1676660922896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea2QS0c/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676660926515	Marionette	INFO	Stopped listening on port 40699
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=7f03a8669b00"
+1676661907589	geckodriver	INFO	Listening on 127.0.0.1:57801
+1676661907672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWrBQAA"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676661908964	Marionette	INFO	Marionette enabled
+1676661908971	Marionette	INFO	Listening on port 34363
+Read port: 34363
+1676661909189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWrBQAA/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676661913754	Marionette	INFO	Stopped listening on port 34363
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=7f3a5298e900"
+1676662009679	geckodriver	INFO	Listening on 127.0.0.1:59047
+1676662010753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKbM9fo"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676662011846	Marionette	INFO	Marionette enabled
+1676662011854	Marionette	INFO	Listening on port 33657
+Read port: 33657
+1676662012025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKbM9fo/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676662018614	Marionette	INFO	Stopped listening on port 33657
+1676662325854	geckodriver	INFO	Listening on 127.0.0.1:54759
+1676662325941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUG8IbN"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676662327289	Marionette	INFO	Marionette enabled
+1676662327297	Marionette	INFO	Listening on port 45301
+Read port: 45301
+1676662327509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUG8IbN/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676662338259	Marionette	INFO	Stopped listening on port 45301
+1676662650663	geckodriver	INFO	Listening on 127.0.0.1:58463
+1676662650751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehQRfVV"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676662652369	Marionette	INFO	Marionette enabled
+1676662652376	Marionette	INFO	Listening on port 45723
+Read port: 45723
+1676662652587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehQRfVV/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676662666574	Marionette	INFO	Stopped listening on port 45723
+1676662861485	geckodriver	INFO	Listening on 127.0.0.1:55449
+1676662861560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegPdwVV"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676662863048	Marionette	INFO	Marionette enabled
+1676662863056	Marionette	INFO	Listening on port 44327
+Read port: 44327
+1676662863252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegPdwVV/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676663011563	Marionette	INFO	Stopped listening on port 44327
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1676663014848	geckodriver	INFO	Listening on 127.0.0.1:34425
+1676663014948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQk9VVj"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676663016453	Marionette	INFO	Marionette enabled
+1676663016461	Marionette	INFO	Listening on port 33445
+Read port: 33445
+1676663016648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQk9VVj/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676663044486	Marionette	INFO	Stopped listening on port 33445
+1676663153556	geckodriver	INFO	Listening on 127.0.0.1:49363
+1676663153632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZCSZ6R"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676663154957	Marionette	INFO	Marionette enabled
+1676663154963	Marionette	INFO	Listening on port 45889
+Read port: 45889
+1676663155168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZCSZ6R/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676663166163	Marionette	INFO	Stopped listening on port 45889
+1676663355544	geckodriver	INFO	Listening on 127.0.0.1:41655
+1676663355616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileea6mL7"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676663356615	Marionette	INFO	Marionette enabled
+1676663356622	Marionette	INFO	Listening on port 43453
+Read port: 43453
+1676663356787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileea6mL7/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676663360998	Marionette	INFO	Stopped listening on port 43453
+1676665652992	geckodriver	INFO	Listening on 127.0.0.1:57677
+1676665653070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejjoJmM"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676665654243	Marionette	INFO	Marionette enabled
+1676665654256	Marionette	INFO	Listening on port 37625
+Read port: 37625
+1676665654503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejjoJmM/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676665659307	Marionette	INFO	Stopped listening on port 37625
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1676666259980	geckodriver	INFO	Listening on 127.0.0.1:49851
+1676666261052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletOZhp9"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676666262104	Marionette	INFO	Marionette enabled
+1676666262111	Marionette	INFO	Listening on port 46237
+Read port: 46237
+1676666262277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletOZhp9/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676666266338	Marionette	INFO	Stopped listening on port 46237
+1676666555618	geckodriver	INFO	Listening on 127.0.0.1:35945
+1676666555692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUrGxIH"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676666556708	Marionette	INFO	Marionette enabled
+1676666556714	Marionette	INFO	Listening on port 44141
+Read port: 44141
+1676666556873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUrGxIH/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676666560989	Marionette	INFO	Stopped listening on port 44141
+1676666760980	geckodriver	INFO	Listening on 127.0.0.1:40203
+1676666761049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4umJAA"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1676666762071	Marionette	INFO	Marionette enabled
+1676666762078	Marionette	INFO	Listening on port 45785
+Read port: 45785
+1676666762235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4umJAA/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1676666766307	Marionette	INFO	Stopped listening on port 45785
